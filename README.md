@@ -16,8 +16,7 @@ each column:
 
 ## CONCLUSION 
 
-
-![Graphs of Output](https://drive.google.com/file/d/1GVRmX2qbBJNb02UP9OjU4ueS-l-ZT-49/view?usp=sharing)
+[Graphs of Output]([docs/CONTRIBUTING.md](https://drive.google.com/file/d/1GVRmX2qbBJNb02UP9OjU4ueS-l-ZT-49/view?usp=sharing))
 
 
 As we can see in the above graph, for small lengths of the sequence, serial and parallel programs tend to give the output in almost the same amount of time.
